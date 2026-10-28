@@ -1,5 +1,10 @@
-How to run:
-Clone or download the repository
-Open Index.html
+# Website Practice
 
-This is a website that is not interactive. It explains the Help Grandma Out and Hack Club programs.
+A simple web project built with HTML and CSS.
+
+## How to Run
+
+1. Clone or download the repository:
+   ```bash
+   git clone [https://github.com/RobinTheBest/WebsitePractice.git](https://github.com/RobinTheBest/WebsitePractice.git)
+   cd WebsitePractice
